@@ -4,6 +4,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayckL2)](https://github.com/anuraghazra/github-readme-stats)
 
+Link Linkedin: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BhSiz%2FW68TLWgzxM1cO2IKw%3D%3D
 
 
 <!--
