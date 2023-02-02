@@ -6,7 +6,7 @@
 
 Link Linkedin: https://www.linkedin.com/in/mayck-luciano-993403171
 
-
+![Snake animation](https://github.com/MatthewsTomts/MatthewsTomts/blob/output/github-contribution-grid-snake.svg)
 <!--
 **MayckL2/MayckL2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
