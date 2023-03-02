@@ -3,7 +3,6 @@
 #### Estou atualmente procurando por trabalhos freelancers ou emprego 🔭
 
 <div align="center">
-  <a href="https://github.com/joaoabreu004">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayckl2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayckl2&layout=compact&langs_count=7&theme=dark"/>
 </div>
