@@ -1,6 +1,7 @@
-### Olá! Meu nome é Mayck Luciano 👋
+# Olá! Meu nome é Mayck Luciano 👋
 
-#### Estou atualmente procurando por trabalhos freelancers ou emprego 🔭
+### Sou um estudante de Desenvolvimento de sistemas na instituição Senai-Suiço-Brasileira, alem do curso, estudo desenvolvimento Front-end ha mais de 3 anos de forma autonoma, utilizando tecnologias como html5, css3, javascript, sass, jquery e bootstrap. Atualmente estou estudando React.js e desenvolvimento Back-end.
+#### Atualmente estou procurando por trabalhos freelancers ou emprego 🔭
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayckl2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
