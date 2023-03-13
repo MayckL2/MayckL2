@@ -1,7 +1,9 @@
 # Olá! Meu nome é Mayck Luciano 👋
 
-### Sou um estudante de Desenvolvimento de sistemas na instituição Senai-Suiço-Brasileira, alem do curso, estudo desenvolvimento Front-end ha mais de 3 anos de forma autonoma, utilizando tecnologias como html5, css3, javascript, sass, jquery e bootstrap. Atualmente estou estudando React.js e desenvolvimento Back-end.
+### Sou um estudante de Desenvolvimento de sistemas na instituição Senai-Suíço-Brasileira, além do curso, estudo desenvolvimento Front-end ha mais de 3 anos de forma autônoma, utilizando tecnologias como html5, css3, javascript, sass, jquery e bootstrap. Atualmente estou estudando React.js e desenvolvimento Back-end.
 #### Atualmente estou procurando por trabalhos freelancers ou emprego 🔭
+### I am a systems development student at Senai-Swiss-Brazilian institution, in addition to the course, I have been studying Front-end development for over 3 years autonomously, using technologies such as html5, css3, javascript, sass, jquery and bootstrap. I'm currently studying React.js and Back-end development.
+#### I am currently looking for freelance jobs or employment 🔭
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayckl2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
