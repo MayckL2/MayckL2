@@ -27,6 +27,7 @@
   <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt"jv-SASS" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="jv-Js" height="30" width="40" src="https://user-images.githubusercontent.com/103364944/224952806-c4d41963-b0ab-4081-be7d-7a301bee26ca.png">
   <img align="center" alt"jv-Mysql" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
