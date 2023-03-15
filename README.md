@@ -10,7 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayckl2&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  
+<h2 align=center>Redes Sociais</h2>
+
 <div style="display:flex;" align=center>
 <a href="https://www.linkedin.com/in/mayck-luciano-993403171" target="_blank">
   <img style='width: 110px' src="https://user-images.githubusercontent.com/103364944/221006786-ab64fbc3-747f-4540-aad0-d7ef91f91479.png">
@@ -21,7 +22,9 @@
 </a>
 </div>
 
-  <div style="display: inline_block" align=center><br> 
+<h2 align=center>Tecnologias</h2>
+
+<div style="display: inline_block" align=center><br> 
   <img align="center" alt="jv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
