@@ -15,28 +15,29 @@
 <div style="display:flex;" align=center>
 
 <a href="https://www.linkedin.com/in/mayck-luciano-993403171" target="_blank">
-  <img style='width: 51px' src="https://user-images.githubusercontent.com/103364944/221006786-ab64fbc3-747f-4540-aad0-d7ef91f91479.png">
+  <img height='25' width='120' src="https://img.shields.io/badge/LINKEDIN-126BC4?logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://mayckl2.github.io/Portifolio-3.0-Oficial/" target="_blank">
-  <img style='width: 50px;' src="https://user-images.githubusercontent.com/103364944/221008539-3b0f9cd2-dc89-4da3-9dda-87ad3f2e5e30.jpeg">
+  <img height='25' width='120' src="https://img.shields.io/badge/MENTOR-445692?logo=frontendmentor&logoColor=white">
 </a>
 
 <a href="https://mayckl2.github.io/Portifolio-3.0-Oficial/" target="_blank">
-  <img style='width: 50px;' src="https://user-images.githubusercontent.com/103364944/225729011-211d38f2-31bb-4898-9f00-7ca0311e6748.png">
+  <img height='25' width='120' src="https://img.shields.io/badge/PORTIF%C3%93LIO-purple?logo=Opsgenie&logoColor=white">
 </a>
 </div>
 
-<h2 align=center>Tecnologias</h2>
 
 <div style="display: inline_block" align=center><br> 
-  <img align="center" alt="jv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt"jv-SASS" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="jv-Js" height="30" width="40" src="https://user-images.githubusercontent.com/103364944/224952806-c4d41963-b0ab-4081-be7d-7a301bee26ca.png">
-  <img align="center" alt"jv-Mysql" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align='center' height='25' width='90' src='https://img.shields.io/badge/HTML5-DD4B25?logo=html5&logoColor=white'>
+  <img align='center' height='25' width='90' src='https://img.shields.io/badge/CSS3-254BDD?logo=css3&logoColor=white'>
+  <img align='center' height='25' width='150' src='https://img.shields.io/badge/JAVASCRIPT-E6A42D?logo=javascript&logoColor=white'>
+  <img align='center' height='25' width='90' src='https://img.shields.io/badge/REACT-08DCFF?logo=react&logoColor=white'>
+  <img align='center' height='25' width='150' src='https://img.shields.io/badge/REACT%20NATIVE-08ABD9?logo=react&logoColor=white'>
+  <img align='center' height='25' width='90' src='https://img.shields.io/badge/PHP-7B7FB5?logo=php&logoColor=white'>
+  <img align='center' height='25' width='90' src='https://img.shields.io/badge/SASS-CE6B9B?logo=sass&logoColor=white'>
+  <img align='center' height='25' width='90' src='https://img.shields.io/badge/MYSQL-30516D?logo=mysql&logoColor=white'>
+  <img align='center' height='25' width='90' src='https://img.shields.io/badge/PYTHON-3F76A5?logo=python&logoColor=white'>
 </div>
   
 ![Snake animation](https://github.com/MatthewsTomts/MatthewsTomts/blob/output/github-contribution-grid-snake.svg)
