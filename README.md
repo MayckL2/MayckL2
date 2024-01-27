@@ -1,7 +1,7 @@
 # Olá! Meu nome é Mayck Luciano 👋
 
-- 🔭 I’m currently working on finishing Tcc
-- 🌱 I’m currently learning Next.js and node.js
+- 🔭 I’m currently working on finishing Freelancer project
+- 🌱 I’m currently learning Next.js and Vue.js
 - 📫 How to reach me: https://www.linkedin.com/in/mayck-luciano-993403171
 - ⚡ Fun fact: I love adventure time
 <!-- ### I am a systems development student at Senai-Swiss-Brazilian institution, in addition to the course, I have been studying Front-end development for over 3 years autonomously, using technologies such as html5, css3, javascript, sass, jquery and bootstrap. I'm currently studying React.js and Back-end development.
