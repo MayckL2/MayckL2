@@ -28,6 +28,8 @@
   <img align='center' height='25' width='90' src='https://img.shields.io/badge/PYTHON-3F76A5?logo=python&logoColor=white'>
   <img align='center' height='25' width='60' src="https://img.shields.io/badge/GIT-orange?logo=git&logoColor=white">
   <img align='center' height='25' width='90' src="https://img.shields.io/badge/GITHUB-gray?logo=github&logoColor=white">
+  <img align='center' height='25' width='90' src="https://img.shields.io/badge/angular-%23FF0000?logo=angular">
+
 
 </div>
 <br>
