@@ -1,6 +1,6 @@
 # Olá! Meu nome é Mayck Luciano 👋
 
-- 🔭 I’m currently working as a systems analyst
+- 🔭 I’m currently working as a systems analyst and searching for Junior Develover job
 - 🌱 I’m currently learning Angular and .Net best practices
 - 📫 How to reach me: mayckluciano2@gmail.com
 - ⚡ Fun fact: I love adventure time
